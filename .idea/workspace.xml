@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f72ca710-c02e-40b4-9393-e74a7eb05a2b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/db/apartment_db.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/db/apartment_db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/mongo_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/15796113814172018-09-27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1579611381422apartment_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1579611381424apartment_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1579611381426apartment_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1579708814199apartment_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1579708848828apartment_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580032375075157986365517336924154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580039214543london.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580039365517apartment_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580300794147apartment_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580301398719apartment_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580302583305apartment_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/15803135938181579611381426apartment_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/158031373962936924155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/158031373964039382257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/15803137949321580039365517apartment_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/158031379494036924154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580314508479image (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580314616703image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580314690764images (1).jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580314802265images.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580316310621image (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/1580316310629sd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/2018-09-27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/36924150.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/36924154.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/36924155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/39382257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/67809211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/apartment_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/eiffel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/family_one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/family_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/herobackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/london.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/main_image.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/neighborhood_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/ohio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/phonelogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/rentalslogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/rhouselogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/rio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/sec_small_new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/small_new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/taj_mahal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/tel_aviv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/topnavphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/apartment/vlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/Sydney.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/_new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/babruysk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/bacău.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/barcelona.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/beatles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/berlin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/chicago.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/dublin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/hong_Kong.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/liverpool.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/london.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/madrid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/mexico_city.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/moscow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/new_delhi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/page_background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/paris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/rio_de_janeiro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/rio_de_janeiro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/roma.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/roma.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/sau_paulo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/stockholm.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/tel_aviv (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/tel_aviv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/cities/tokyo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/eiffel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/family_one.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/family_two.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/feed_img_placeholder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/herobackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/loadingApartment.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/london.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/main_image.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/neighborhood_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/ohio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/phonelogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/rentalslogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/rio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/sec_small_new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/small_new_york.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/taj_mahal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/takeover-desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/tel_aviv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/topnavphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/pubile/images/general/vlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routers/apartments_router.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/routers/apartments_router.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/routers/routes.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server/routers/apartments_router.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-208">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/db/apartment_db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>apartment_db</find>
+      <find>image</find>
+      <find>send_file</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/query_builder.py" />
+        <option value="$PROJECT_DIR$/apartment_db.py" />
+        <option value="$PROJECT_DIR$/apartments_router.py" />
+        <option value="$PROJECT_DIR$/mongo_server.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/routes.py" />
+        <option value="$PROJECT_DIR$/../../server/run.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/server/config.py" />
+        <option value="$PROJECT_DIR$/server/db/apartment_db.py" />
+        <option value="$PROJECT_DIR$/server/mongo_server.py" />
+        <option value="$PROJECT_DIR$/server/__init__.py" />
+        <option value="$PROJECT_DIR$/server/utils.py" />
+        <option value="$PROJECT_DIR$/server/routers/apartments_router.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/realtor_python_server.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="345" />
+    <option name="y" value="5" />
+    <option name="width" value="980" />
+    <option name="height" value="525" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="realtor_python_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="realtor_python_server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="realtor_python_server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="realtor_python_server" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../server" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="apartment_db" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="realtor_python_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/apartment_db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mongo_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="realtor_python_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mongo_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="realtor_python_server" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.mongo_server" />
+        <item itemvalue="Python.apartment_db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f72ca710-c02e-40b4-9393-e74a7eb05a2b" name="Default Changelist" comment="" />
+      <created>1581663879161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581663879161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.125" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32991013" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3992298" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/query_builder.py" />
+    <entry file="file://$PROJECT_DIR$/apartment_db.py" />
+    <entry file="file://$PROJECT_DIR$/apartments_router.py" />
+    <entry file="file://$PROJECT_DIR$/mongo_server.py" />
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/routes.py" />
+    <entry file="file://$PROJECT_DIR$/server/db/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../server/run.py" />
+    <entry file="file://$PROJECT_DIR$/../_init_.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routers/routes.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/db/query_builder.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/db/apartment_db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routers/apartments_router.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-208">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
