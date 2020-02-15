@@ -4,6 +4,7 @@ from ..db import apartment_db
 
 mod = Blueprint('mod', __name__)
 
+
 @mod.route("/apartments", methods=['GET'])
 @cross_origin(supports_credentials=True)
 def get_apartments():
@@ -24,3 +25,12 @@ def get_recent_apartment():
 def get_apartments_by_id(apartment_id):
     apartment = apartment_db.get_apartments_by_id(apartment_id)
     return jsonify([apartment])
+
+
+@mod.route('/apartments/all/countries', methods=['GET'])
+@cross_origin(supports_credentials=True)
+def get_country():
+    apartment = apartment_db.get_country_apartments()
+    return jsonify(apartment)
+
+

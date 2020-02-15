@@ -24,3 +24,8 @@ def get_all_apartments(query):
     return {'apartments': apartments_result}
 
 
+def get_country_apartments():
+    countries = []
+    for apa in apartments.aggregate([ {"$group" : {'_id':"$country"}}]):
+        countries.append(apa["_id"])
+        print(countries)
