@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-import query_builder
+from ..db import query_builder
 
 cluster = MongoClient("mongodb+srv://EylonKoenig:a6310259@cluster0-arujk.gcp.mongodb.net/test")
 db = cluster["realtor"]
@@ -14,13 +14,13 @@ def get_recent_apartment():
 
 
 def get_apartments_by_id(apartment_id):
-    return apartments.find_one({"id":int(apartment_id)},{"_id":0})
+    return apartments.find_one({"id": int(apartment_id)}, {"_id": 0})
 
 
 def get_all_apartments(query):
     apartments_result = []
-    for apartment in apartments.find(query_builder.apartment_filters(query), {"_id": 0}).limit(4):
+    for apartment in apartments.find(query_builder.apartment_filters(query), {"_id": 0}):
         apartments_result.append(apartment)
-    return apartments_result
+    return {'apartments': apartments_result}
 
 

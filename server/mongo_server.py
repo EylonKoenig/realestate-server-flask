@@ -1,8 +1,7 @@
 import os
 import uuid
-import apartment_db
-from flask import Flask, jsonify, send_file, abort, request
-from flask_cors import CORS, cross_origin
+from flask import Flask, jsonify, send_file, abort
+from flask_cors import CORS
 from flask_httpauth import HTTPBasicAuth
 from flask_mongoengine import MongoEngine
 
@@ -54,34 +53,4 @@ def get_image(path, image_name):
     image = "images/"+path+"/"+image_name
     validate_path(image)
     return send_file(image)
-
-
-@app.route('/apartments/four/bydate', methods=['GET'])
-@cross_origin(supports_credentials=True)
-def get_recent_apartment():
-    apartments = apartment_db.get_recent_apartment()
-    return jsonify(apartments)
-
-
-@app.route('/apartments', methods=['GET'])
-@cross_origin(supports_credentials=True)
-def get_apartments():
-    query = request.args
-    print(query)
-    # apartments = apartment_db.get_all_apartments(query)
-    # return jsonify(apartments)
-    return jsonify(result=True)
-
-
-@app.route('/apartments/<string:apartment_id>', methods=['GET'])
-@cross_origin(supports_credentials=True)
-def get_apartments_by_id(apartment_id):
-    apartment = apartment_db.get_apartments_by_id(apartment_id)
-    return jsonify([apartment])
-
-
-if __name__ == '__main__':
-    app.run(host='localhost', port=4000, debug=True)
-    app.logger.info("Server shutting down")
-
 
