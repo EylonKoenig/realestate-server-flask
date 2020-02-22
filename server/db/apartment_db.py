@@ -1,8 +1,6 @@
-from pymongo import MongoClient
 from ..db import query_builder
+from ..config import db
 
-cluster = MongoClient("mongodb+srv://EylonKoenig:a6310259@cluster0-arujk.gcp.mongodb.net/test")
-db = cluster["realtor"]
 apartments = db["apartments"]
 
 
