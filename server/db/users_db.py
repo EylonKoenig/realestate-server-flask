@@ -18,16 +18,15 @@ def add_user(users_details):
 
 def get_users():
     users_list = []
-    for user in users:
+    for user in users.find({}, {"_id": 0}):
         users_list.append(user["email"])
     return users_list
 
 
 def login(user_details):
-    print(user_details)
-    # user = users.find_one({"email": user_details["user"]}, {"_id": 0})
-    # if user and pbkdf2_sha512.verify(user_details["password"], user["password"]):
-    #     return user
+    user = users.find_one({"email": user_details["user"]}, {"_id": 0})
+    if user and pbkdf2_sha512.verify(user_details["password"], user["password"]):
+        return user
     return False
 
 
