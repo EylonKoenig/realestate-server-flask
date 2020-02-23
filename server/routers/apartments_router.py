@@ -33,4 +33,3 @@ def get_country():
     apartment = apartment_db.get_country_apartments()
     return jsonify(apartment)
 
-

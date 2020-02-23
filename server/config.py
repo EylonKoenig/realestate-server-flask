@@ -1,5 +1,8 @@
 import os
+from pymongo import MongoClient
 
+cluster = MongoClient("mongodb+srv://EylonKoenig:a6310259@cluster0-arujk.gcp.mongodb.net/test?ssl=true&ssl_cert_reqs=CERT_NONE",connect=False)
+db = cluster["realtor"]
 
 class Config:
     SECRET_KEY = os.environ.get('SECRET_KEY', 'lucyintheskywithdiamonds')
